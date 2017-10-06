@@ -10,4 +10,3 @@ Frederik Charles Martin
 Kasper Valente,
 Elias Valdemar Poulsen
 Fredrik Boskov Bengtsson
-kurt
