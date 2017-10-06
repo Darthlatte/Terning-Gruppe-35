@@ -60,7 +60,7 @@ public class DiceTest {
 			
 		}
 		while(i != 60000);
-		
+
 		
 		
 		value11	= (value1*100)/60000;
