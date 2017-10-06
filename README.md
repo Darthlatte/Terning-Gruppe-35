@@ -9,3 +9,5 @@ This is an exercise in using _GIT_ to fix errors and trace the changes.
 Frederik Charles Martin
 Kasper Valente,
 Elias Valdemar Poulsen
+
+Fredrik er en hund!
