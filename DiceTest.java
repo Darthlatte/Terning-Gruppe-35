@@ -63,18 +63,18 @@ public class DiceTest {
 
 		
 		
-//		value11	= (value1*100)/60000;
-//		value22	= (value2*100)/60000;
-//		value33	= (value3*100)/60000;
-//		value44	= (value4*100)/60000;
-//		value55	= (value5*100)/60000;
-//		value66	= (value6*100)/60000;
-		System.out.println("for 1: "+value1+"%");
-		System.out.println("for 2: "+value2+"%");
-		System.out.println("for 3: "+value3+"%");
-		System.out.println("for 4: "+value4+"%");
-		System.out.println("for 5: "+value5+"%");
-		System.out.println("for 6: "+value6+"%");
+		value11	= (value1*100)/60000;
+		value22	= (value2*100)/60000;
+		value33	= (value3*100)/60000;
+		value44	= (value4*100)/60000;
+		value55	= (value5*100)/60000;
+		value66	= (value6*100)/60000;
+		System.out.println("for 1: "+value11+"%");
+		System.out.println("for 2: "+value22+"%");
+		System.out.println("for 3: "+value33+"%");
+		System.out.println("for 4: "+value44+"%");
+		System.out.println("for 5: "+value55+"%");
+		System.out.println("for 6: "+value66+"%");
 	}
 	
 	}
