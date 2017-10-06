@@ -6,8 +6,9 @@ The program has known errors.
 This is an exercise in using _GIT_ to fix errors and trace the changes.
 
 <<<<<<< HEAD
-Frederik Charles Martin
+
 =======
 ## Gruppemedlemmer:
+Frederik Charles Martins
 Kasper Valente, 
 >>>>>>> 7a452f8141e4f26cf3a32c4174472822e8be0c46
