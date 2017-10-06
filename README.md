@@ -7,3 +7,4 @@ This is an exercise in using _GIT_ to fix errors and trace the changes.
 
 ## Gruppemedlemmer:
 Kasper Valente, 
+Elias Valdemar Poulsen
